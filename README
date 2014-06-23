@@ -1,8 +1,0 @@
-Software implementation of an ethernet switch with
-the multicast support.
-----------------------------------------------------------
-
-External libraries:
--------------------
-* libpcap
-* libnet
